@@ -23,4 +23,4 @@
 
         };
 
-        Console.WriteLine(rockpaperscissors("paper", "scissors"));
+        Console.WriteLine(rockpaperscissors("paper", "scissors")); // 1st player's answer and 2nd player's answer
